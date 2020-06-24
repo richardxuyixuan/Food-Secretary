@@ -1,0 +1,35 @@
+[{"name": "Pasta", "storage": "dry","type":"Grain","unit": "g"},
+{"name": "Flour", "storage": "dry","type":"Grain","unit": "g"},
+{"name": "Bread", "storage": "dry","type":"Grain","unit": "qty"},
+{"name": "Rice", "storage": "dry","type":"Grain","unit": "g"},
+{"name": "Coffee", "storage": "dry","type":"Drinks","unit": "g"},
+{"name": "Tea", "storage": "dry","type":"Drinks","unit": "g"},
+{"name": "Salad dressing", "storage": "fridge","type":"Condiments","unit": "g"},
+{"name": "Peanut Butter", "storage": "fridge","type":"Condiments","unit": "g"},
+{"name": "Chicken", "storage": "fridge","type":"Meat","unit": "g"},
+{"name": "Corn", "storage": "fridge","type":"Vegetable","unit": "g"},
+{"name": "Green beans", "storage": "fridge","type":"Vegetable","unit": "g"},
+{"name": "Peanut Butter", "storage": "fridge","type": "Condiments","unit": "g"},
+{"name": "Milk", "storage": "fridge","type":"Dairy Products","unit": "g"},
+{"name": "Egg", "storage": "fridge","type":"Meat","unit": "g"},
+{"name": "Butter", "storage": "fridge","type":"Dairy Products","unit": "g"},
+{"name": "Cheese", "storage": "fridge","type":"Dairy Products","unit": "g"},
+{"name": "Tomato", "storage": "fridge","type":"Vegetable","unit": "g"},
+{"name": "Lettuce", "storage": "fridge","type":"Vegetable","unit": "g"},
+{"name": "Cucumber", "storage": "fridge","type":"Vegetable","unit": "g"},
+  {"name": "Banana", "storage": "fridge","type":"Fruit","unit": "g"},
+  {"name": "Watermelon", "storage": "fridge","type":"Fruit","unit": "g"},
+  {"name": "Apple", "storage": "fridge","type":"Fruit","unit": "g"},
+  {"name": "Grapefruit", "storage": "fridge","type":"Fruit","unit": "g"},
+{"name": "Ice cream", "storage": "frozen","type":"Dairy Products","unit": "g"},
+{"name": "Chicken", "storage": "frozen","type":"Meat","unit": "g"}]
+
+
+
+
+
+
+
+
+
+

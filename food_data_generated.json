@@ -1,0 +1,602 @@
+[
+    {
+        "name": "Pasta",
+        "storage": "dry",
+        "type": "Grain",
+        "unit": "g",
+        "quantity": 44.41964332387965,
+        "expiry date": "8/25/2022"
+    },
+    {
+        "name": "Pasta",
+        "storage": "dry",
+        "type": "Grain",
+        "unit": "g",
+        "quantity": 44.41964332387965,
+        "expiry date": "8/25/2022"
+    },
+    {
+        "name": "Pasta",
+        "storage": "dry",
+        "type": "Grain",
+        "unit": "g",
+        "quantity": 44.41964332387965,
+        "expiry date": "8/25/2022"
+    },
+    {
+        "name": "Flour",
+        "storage": "dry",
+        "type": "Grain",
+        "unit": "g",
+        "quantity": 912.0953946575594,
+        "expiry date": "12/22/2020"
+    },
+    {
+        "name": "Flour",
+        "storage": "dry",
+        "type": "Grain",
+        "unit": "g",
+        "quantity": 912.0953946575594,
+        "expiry date": "12/22/2020"
+    },
+    {
+        "name": "Flour",
+        "storage": "dry",
+        "type": "Grain",
+        "unit": "g",
+        "quantity": 912.0953946575594,
+        "expiry date": "12/22/2020"
+    },
+    {
+        "name": "Bread",
+        "storage": "dry",
+        "type": "Grain",
+        "unit": "qty",
+        "quantity": 12,
+        "expiry date": "11/20/2020"
+    },
+    {
+        "name": "Bread",
+        "storage": "dry",
+        "type": "Grain",
+        "unit": "qty",
+        "quantity": 12,
+        "expiry date": "11/20/2020"
+    },
+    {
+        "name": "Bread",
+        "storage": "dry",
+        "type": "Grain",
+        "unit": "qty",
+        "quantity": 12,
+        "expiry date": "11/20/2020"
+    },
+    {
+        "name": "Rice",
+        "storage": "dry",
+        "type": "Grain",
+        "unit": "g",
+        "quantity": 737.7148098510233,
+        "expiry date": "10/29/2020"
+    },
+    {
+        "name": "Rice",
+        "storage": "dry",
+        "type": "Grain",
+        "unit": "g",
+        "quantity": 737.7148098510233,
+        "expiry date": "10/29/2020"
+    },
+    {
+        "name": "Rice",
+        "storage": "dry",
+        "type": "Grain",
+        "unit": "g",
+        "quantity": 737.7148098510233,
+        "expiry date": "10/29/2020"
+    },
+    {
+        "name": "Coffee",
+        "storage": "dry",
+        "type": "Drinks",
+        "unit": "g",
+        "quantity": 167.3019096413159,
+        "expiry date": "4/6/2021"
+    },
+    {
+        "name": "Coffee",
+        "storage": "dry",
+        "type": "Drinks",
+        "unit": "g",
+        "quantity": 167.3019096413159,
+        "expiry date": "4/6/2021"
+    },
+    {
+        "name": "Coffee",
+        "storage": "dry",
+        "type": "Drinks",
+        "unit": "g",
+        "quantity": 167.3019096413159,
+        "expiry date": "4/6/2021"
+    },
+    {
+        "name": "Tea",
+        "storage": "dry",
+        "type": "Drinks",
+        "unit": "g",
+        "quantity": 241.58335438728224,
+        "expiry date": "3/23/2020"
+    },
+    {
+        "name": "Tea",
+        "storage": "dry",
+        "type": "Drinks",
+        "unit": "g",
+        "quantity": 241.58335438728224,
+        "expiry date": "3/23/2020"
+    },
+    {
+        "name": "Tea",
+        "storage": "dry",
+        "type": "Drinks",
+        "unit": "g",
+        "quantity": 241.58335438728224,
+        "expiry date": "3/23/2020"
+    },
+    {
+        "name": "Salad dressing",
+        "storage": "fridge",
+        "type": "Condiments",
+        "unit": "g",
+        "quantity": 709.3490137906584,
+        "expiry date": "5/13/2022"
+    },
+    {
+        "name": "Salad dressing",
+        "storage": "fridge",
+        "type": "Condiments",
+        "unit": "g",
+        "quantity": 709.3490137906584,
+        "expiry date": "5/13/2022"
+    },
+    {
+        "name": "Salad dressing",
+        "storage": "fridge",
+        "type": "Condiments",
+        "unit": "g",
+        "quantity": 709.3490137906584,
+        "expiry date": "5/13/2022"
+    },
+    {
+        "name": "Peanut Butter",
+        "storage": "fridge",
+        "type": "Condiments",
+        "unit": "g",
+        "quantity": 795.914433509503,
+        "expiry date": "8/1/2021"
+    },
+    {
+        "name": "Peanut Butter",
+        "storage": "fridge",
+        "type": "Condiments",
+        "unit": "g",
+        "quantity": 795.914433509503,
+        "expiry date": "8/1/2021"
+    },
+    {
+        "name": "Peanut Butter",
+        "storage": "fridge",
+        "type": "Condiments",
+        "unit": "g",
+        "quantity": 795.914433509503,
+        "expiry date": "8/1/2021"
+    },
+    {
+        "name": "Chicken",
+        "storage": "fridge",
+        "type": "Meat",
+        "unit": "g",
+        "quantity": 582.7650464589569,
+        "expiry date": "4/3/2020"
+    },
+    {
+        "name": "Chicken",
+        "storage": "fridge",
+        "type": "Meat",
+        "unit": "g",
+        "quantity": 582.7650464589569,
+        "expiry date": "4/3/2020"
+    },
+    {
+        "name": "Chicken",
+        "storage": "fridge",
+        "type": "Meat",
+        "unit": "g",
+        "quantity": 582.7650464589569,
+        "expiry date": "4/3/2020"
+    },
+    {
+        "name": "Corn",
+        "storage": "fridge",
+        "type": "Vegetable",
+        "unit": "g",
+        "quantity": 299.7080136505491,
+        "expiry date": "2/12/2022"
+    },
+    {
+        "name": "Corn",
+        "storage": "fridge",
+        "type": "Vegetable",
+        "unit": "g",
+        "quantity": 299.7080136505491,
+        "expiry date": "2/12/2022"
+    },
+    {
+        "name": "Corn",
+        "storage": "fridge",
+        "type": "Vegetable",
+        "unit": "g",
+        "quantity": 299.7080136505491,
+        "expiry date": "2/12/2022"
+    },
+    {
+        "name": "Green beans",
+        "storage": "fridge",
+        "type": "Vegetable",
+        "unit": "g",
+        "quantity": 707.35401574712,
+        "expiry date": "7/14/2020"
+    },
+    {
+        "name": "Green beans",
+        "storage": "fridge",
+        "type": "Vegetable",
+        "unit": "g",
+        "quantity": 707.35401574712,
+        "expiry date": "7/14/2020"
+    },
+    {
+        "name": "Green beans",
+        "storage": "fridge",
+        "type": "Vegetable",
+        "unit": "g",
+        "quantity": 707.35401574712,
+        "expiry date": "7/14/2020"
+    },
+    {
+        "name": "Peanut Butter",
+        "storage": "fridge",
+        "type": "Condiments",
+        "unit": "g",
+        "quantity": 386.17683201280187,
+        "expiry date": "5/24/2020"
+    },
+    {
+        "name": "Peanut Butter",
+        "storage": "fridge",
+        "type": "Condiments",
+        "unit": "g",
+        "quantity": 386.17683201280187,
+        "expiry date": "5/24/2020"
+    },
+    {
+        "name": "Peanut Butter",
+        "storage": "fridge",
+        "type": "Condiments",
+        "unit": "g",
+        "quantity": 386.17683201280187,
+        "expiry date": "5/24/2020"
+    },
+    {
+        "name": "Milk",
+        "storage": "fridge",
+        "type": "Dairy Products",
+        "unit": "g",
+        "quantity": 124.46358893986707,
+        "expiry date": "6/8/2021"
+    },
+    {
+        "name": "Milk",
+        "storage": "fridge",
+        "type": "Dairy Products",
+        "unit": "g",
+        "quantity": 124.46358893986707,
+        "expiry date": "6/8/2021"
+    },
+    {
+        "name": "Milk",
+        "storage": "fridge",
+        "type": "Dairy Products",
+        "unit": "g",
+        "quantity": 124.46358893986707,
+        "expiry date": "6/8/2021"
+    },
+    {
+        "name": "Egg",
+        "storage": "fridge",
+        "type": "Meat",
+        "unit": "g",
+        "quantity": 192.6264591102232,
+        "expiry date": "12/29/2021"
+    },
+    {
+        "name": "Egg",
+        "storage": "fridge",
+        "type": "Meat",
+        "unit": "g",
+        "quantity": 192.6264591102232,
+        "expiry date": "12/29/2021"
+    },
+    {
+        "name": "Egg",
+        "storage": "fridge",
+        "type": "Meat",
+        "unit": "g",
+        "quantity": 192.6264591102232,
+        "expiry date": "12/29/2021"
+    },
+    {
+        "name": "Butter",
+        "storage": "fridge",
+        "type": "Dairy Products",
+        "unit": "g",
+        "quantity": 111.73532314815661,
+        "expiry date": "11/2/2020"
+    },
+    {
+        "name": "Butter",
+        "storage": "fridge",
+        "type": "Dairy Products",
+        "unit": "g",
+        "quantity": 111.73532314815661,
+        "expiry date": "11/2/2020"
+    },
+    {
+        "name": "Butter",
+        "storage": "fridge",
+        "type": "Dairy Products",
+        "unit": "g",
+        "quantity": 111.73532314815661,
+        "expiry date": "11/2/2020"
+    },
+    {
+        "name": "Cheese",
+        "storage": "fridge",
+        "type": "Dairy Products",
+        "unit": "g",
+        "quantity": 788.9624529941873,
+        "expiry date": "9/24/2020"
+    },
+    {
+        "name": "Cheese",
+        "storage": "fridge",
+        "type": "Dairy Products",
+        "unit": "g",
+        "quantity": 788.9624529941873,
+        "expiry date": "9/24/2020"
+    },
+    {
+        "name": "Cheese",
+        "storage": "fridge",
+        "type": "Dairy Products",
+        "unit": "g",
+        "quantity": 788.9624529941873,
+        "expiry date": "9/24/2020"
+    },
+    {
+        "name": "Tomato",
+        "storage": "fridge",
+        "type": "Vegetable",
+        "unit": "g",
+        "quantity": 943.6454060388724,
+        "expiry date": "11/19/2021"
+    },
+    {
+        "name": "Tomato",
+        "storage": "fridge",
+        "type": "Vegetable",
+        "unit": "g",
+        "quantity": 943.6454060388724,
+        "expiry date": "11/19/2021"
+    },
+    {
+        "name": "Tomato",
+        "storage": "fridge",
+        "type": "Vegetable",
+        "unit": "g",
+        "quantity": 943.6454060388724,
+        "expiry date": "11/19/2021"
+    },
+    {
+        "name": "Lettuce",
+        "storage": "fridge",
+        "type": "Vegetable",
+        "unit": "g",
+        "quantity": 179.7864775177328,
+        "expiry date": "10/23/2022"
+    },
+    {
+        "name": "Lettuce",
+        "storage": "fridge",
+        "type": "Vegetable",
+        "unit": "g",
+        "quantity": 179.7864775177328,
+        "expiry date": "10/23/2022"
+    },
+    {
+        "name": "Lettuce",
+        "storage": "fridge",
+        "type": "Vegetable",
+        "unit": "g",
+        "quantity": 179.7864775177328,
+        "expiry date": "10/23/2022"
+    },
+    {
+        "name": "Cucumber",
+        "storage": "fridge",
+        "type": "Vegetable",
+        "unit": "g",
+        "quantity": 383.729554487369,
+        "expiry date": "5/10/2022"
+    },
+    {
+        "name": "Cucumber",
+        "storage": "fridge",
+        "type": "Vegetable",
+        "unit": "g",
+        "quantity": 383.729554487369,
+        "expiry date": "5/10/2022"
+    },
+    {
+        "name": "Cucumber",
+        "storage": "fridge",
+        "type": "Vegetable",
+        "unit": "g",
+        "quantity": 383.729554487369,
+        "expiry date": "5/10/2022"
+    },
+    {
+        "name": "Banana",
+        "storage": "fridge",
+        "type": "Fruit",
+        "unit": "g",
+        "quantity": 721.3267159338325,
+        "expiry date": "11/9/2021"
+    },
+    {
+        "name": "Banana",
+        "storage": "fridge",
+        "type": "Fruit",
+        "unit": "g",
+        "quantity": 721.3267159338325,
+        "expiry date": "11/9/2021"
+    },
+    {
+        "name": "Banana",
+        "storage": "fridge",
+        "type": "Fruit",
+        "unit": "g",
+        "quantity": 721.3267159338325,
+        "expiry date": "11/9/2021"
+    },
+    {
+        "name": "Watermelon",
+        "storage": "fridge",
+        "type": "Fruit",
+        "unit": "g",
+        "quantity": 221.3660615400432,
+        "expiry date": "5/16/2021"
+    },
+    {
+        "name": "Watermelon",
+        "storage": "fridge",
+        "type": "Fruit",
+        "unit": "g",
+        "quantity": 221.3660615400432,
+        "expiry date": "5/16/2021"
+    },
+    {
+        "name": "Watermelon",
+        "storage": "fridge",
+        "type": "Fruit",
+        "unit": "g",
+        "quantity": 221.3660615400432,
+        "expiry date": "5/16/2021"
+    },
+    {
+        "name": "Apple",
+        "storage": "fridge",
+        "type": "Fruit",
+        "unit": "g",
+        "quantity": 703.3161079119691,
+        "expiry date": "10/24/2021"
+    },
+    {
+        "name": "Apple",
+        "storage": "fridge",
+        "type": "Fruit",
+        "unit": "g",
+        "quantity": 703.3161079119691,
+        "expiry date": "10/24/2021"
+    },
+    {
+        "name": "Apple",
+        "storage": "fridge",
+        "type": "Fruit",
+        "unit": "g",
+        "quantity": 703.3161079119691,
+        "expiry date": "10/24/2021"
+    },
+    {
+        "name": "Grapefruit",
+        "storage": "fridge",
+        "type": "Fruit",
+        "unit": "g",
+        "quantity": 570.1595778525403,
+        "expiry date": "6/24/2021"
+    },
+    {
+        "name": "Grapefruit",
+        "storage": "fridge",
+        "type": "Fruit",
+        "unit": "g",
+        "quantity": 570.1595778525403,
+        "expiry date": "6/24/2021"
+    },
+    {
+        "name": "Grapefruit",
+        "storage": "fridge",
+        "type": "Fruit",
+        "unit": "g",
+        "quantity": 570.1595778525403,
+        "expiry date": "6/24/2021"
+    },
+    {
+        "name": "Ice cream",
+        "storage": "frozen",
+        "type": "Dairy Products",
+        "unit": "g",
+        "quantity": 913.2920292384096,
+        "expiry date": "3/28/2020"
+    },
+    {
+        "name": "Ice cream",
+        "storage": "frozen",
+        "type": "Dairy Products",
+        "unit": "g",
+        "quantity": 913.2920292384096,
+        "expiry date": "3/28/2020"
+    },
+    {
+        "name": "Ice cream",
+        "storage": "frozen",
+        "type": "Dairy Products",
+        "unit": "g",
+        "quantity": 913.2920292384096,
+        "expiry date": "3/28/2020"
+    },
+    {
+        "name": "Chicken",
+        "storage": "frozen",
+        "type": "Meat",
+        "unit": "g",
+        "quantity": 208.78029023750156,
+        "expiry date": "10/13/2020"
+    },
+    {
+        "name": "Chicken",
+        "storage": "frozen",
+        "type": "Meat",
+        "unit": "g",
+        "quantity": 208.78029023750156,
+        "expiry date": "10/13/2020"
+    },
+    {
+        "name": "Chicken",
+        "storage": "frozen",
+        "type": "Meat",
+        "unit": "g",
+        "quantity": 208.78029023750156,
+        "expiry date": "10/13/2020"
+    }
+]
