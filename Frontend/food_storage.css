@@ -1,0 +1,62 @@
+.form_popup{
+    display: none;
+    position: fixed;
+    border: 3px solid #f1f1f1;
+}
+
+#add_form{
+    max-width: 500px;
+    padding: 10px;
+    background-color: white;
+    bottom: 100px;
+    right: 400px;
+    left: 400px;
+}
+
+#delete_form{
+    max-width: 500px;
+    padding: 10px;
+    background-color: white;
+    bottom: 300px;
+    right: 450px;
+    left: 450px;
+}
+
+.myForm input[type=text], .myForm input[type=number], .myForm input[type=datetime]{
+    width: 95%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    border: none;
+    background: #f1f1f1;
+}
+
+.trash_icon{
+    width: 50px;
+    height: 55px;
+}
+
+.cooked_icon{
+    width: 50px;
+    height: 55px;
+}
+
+table{
+    border-spacing: 0;
+    width: 75%;
+    border: 1px solid #ddd;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th,td{
+    text-align: center;
+    padding: 5px;
+}
+
+tr:nth-child(even){
+    background-color: #f2f2f2;
+}
+
+h1{
+    text-align: center;
+}
