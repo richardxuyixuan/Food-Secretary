@@ -1,0 +1,75 @@
+Pasta,Grain,dry,g,595.4381164184971,8/14/2021
+Pasta,Grain,dry,g,802.6521483396311,6/3/2020
+Pasta,Grain,dry,g,214.52391323367863,8/19/2022
+Flour,Grain,dry,g,966.2487061241401,10/3/2022
+Flour,Grain,dry,g,72.61696776137086,6/14/2021
+Flour,Grain,dry,g,647.7358325886307,6/19/2020
+Bread,Grain,dry,qty,6,7/11/2020
+Bread,Grain,dry,qty,11,12/9/2021
+Bread,Grain,dry,qty,8,7/27/2020
+Rice,Grain,dry,g,821.5363969161672,8/14/2020
+Rice,Grain,dry,g,769.4721381798423,8/20/2021
+Rice,Grain,dry,g,716.8322606857619,10/16/2022
+Coffee,Drinks,dry,g,384.48736588298664,8/20/2020
+Coffee,Drinks,dry,g,872.2696782191018,5/5/2021
+Coffee,Drinks,dry,g,721.8200693899889,7/4/2020
+Tea,Drinks,dry,g,65.09108623463706,3/21/2022
+Tea,Drinks,dry,g,578.4695464999094,5/10/2020
+Tea,Drinks,dry,g,244.37056179463153,2/11/2021
+Salad dressing,Condiments,fridge,g,109.91906991495733,3/5/2022
+Salad dressing,Condiments,fridge,g,746.8875220903034,9/14/2022
+Salad dressing,Condiments,fridge,g,464.1253164244279,3/8/2022
+Peanut Butter,Condiments,fridge,g,474.7945675954132,2/19/2021
+Peanut Butter,Condiments,fridge,g,79.2943289013335,11/26/2021
+Peanut Butter,Condiments,fridge,g,678.2440011850312,9/24/2020
+Chicken,Meat,fridge,g,224.73218626598734,3/10/2021
+Chicken,Meat,fridge,g,237.78195666476893,10/17/2020
+Chicken,Meat,fridge,g,327.0538034955635,11/25/2020
+Corn,Vegetable,fridge,g,70.9441505893155,5/5/2022
+Corn,Vegetable,fridge,g,880.2159849732222,4/1/2022
+Corn,Vegetable,fridge,g,682.755031531026,3/15/2020
+Green beans,Vegetable,fridge,g,389.07889767445334,4/23/2021
+Green beans,Vegetable,fridge,g,245.88628203039244,1/2/2022
+Green beans,Vegetable,fridge,g,873.1803578375849,10/24/2020
+Peanut Butter,Condiments,fridge,g,230.3791271051187,5/28/2020
+Peanut Butter,Condiments,fridge,g,976.5634630872602,5/3/2022
+Peanut Butter,Condiments,fridge,g,305.5106126556752,1/6/2020
+Milk,Dairy Products,fridge,g,249.57285665771553,12/21/2022
+Milk,Dairy Products,fridge,g,502.1177297529677,9/21/2021
+Milk,Dairy Products,fridge,g,504.9279148077776,1/27/2021
+Egg,Meat,fridge,g,508.6543453010013,7/19/2020
+Egg,Meat,fridge,g,41.99199658764515,2/1/2022
+Egg,Meat,fridge,g,293.9265839813906,11/22/2021
+Butter,Dairy Products,fridge,g,446.3698398213968,8/29/2021
+Butter,Dairy Products,fridge,g,398.24742505156286,6/9/2022
+Butter,Dairy Products,fridge,g,528.8801002512153,2/20/2020
+Cheese,Dairy Products,fridge,g,320.5175206898847,9/17/2021
+Cheese,Dairy Products,fridge,g,293.33004170214286,5/13/2022
+Cheese,Dairy Products,fridge,g,208.1031669715991,11/15/2022
+Tomato,Vegetable,fridge,g,219.50465903507282,8/30/2022
+Tomato,Vegetable,fridge,g,686.2651274232511,11/8/2021
+Tomato,Vegetable,fridge,g,187.9677507715564,6/12/2022
+Lettuce,Vegetable,fridge,g,703.6645938957037,3/10/2020
+Lettuce,Vegetable,fridge,g,765.1452490114194,5/23/2020
+Lettuce,Vegetable,fridge,g,972.6150263128758,3/27/2022
+Cucumber,Vegetable,fridge,g,11.153519919786111,6/27/2022
+Cucumber,Vegetable,fridge,g,604.7678300154607,12/9/2021
+Cucumber,Vegetable,fridge,g,440.23105971729285,6/7/2020
+Banana,Fruit,fridge,g,339.38156074832466,11/9/2020
+Banana,Fruit,fridge,g,447.63140725638715,10/12/2020
+Banana,Fruit,fridge,g,175.37628094476108,11/17/2021
+Watermelon,Fruit,fridge,g,747.834390317836,9/2/2022
+Watermelon,Fruit,fridge,g,969.6491305434851,7/13/2020
+Watermelon,Fruit,fridge,g,946.0299865014567,3/18/2021
+Apple,Fruit,fridge,g,200.3440201148501,11/24/2020
+Apple,Fruit,fridge,g,806.9070220515748,7/6/2020
+Apple,Fruit,fridge,g,37.84809624905616,6/17/2021
+Grapefruit,Fruit,fridge,g,563.6441714301245,1/25/2020
+Grapefruit,Fruit,fridge,g,327.7898139073625,11/10/2022
+Grapefruit,Fruit,fridge,g,485.38376626258116,3/12/2021
+Ice cream,Dairy Products,frozen,g,75.35412365673824,7/19/2022
+Ice cream,Dairy Products,frozen,g,813.3850392692691,7/30/2020
+Ice cream,Dairy Products,frozen,g,653.8702317646786,1/23/2022
+Chicken,Meat,frozen,g,537.4002870974103,7/29/2022
+Chicken,Meat,frozen,g,497.2751365089067,5/8/2020
+Chicken,Meat,frozen,g,152.09450954371178,3/26/2020
