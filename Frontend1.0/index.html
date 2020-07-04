@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+    <head> 
+        <!-- jquery plugin, necessary for datatable plugin to work -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <!-- datatable plugin -->
+        <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.js"></script>
+        <!-- external datatable css -->
+        <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.21/css/jquery.dataTables.css">
+        <!-- custom css -->
+        <link rel="stylesheet" href="styles.css">
+        <!-- jquery javascript -->
+        <script src="javascript.js"></script> 
+        <!-- javascript -->
+        <script src="jquery.js"></script>
+
+        <!-- title of the webpage -->
+        <title>Food secretary</title>
+    </head>
+
+    <body>
+        <!-- Big title on the top -->
+        <h1 id="title">Your storage page</h1>
+        <!-- foodTable -->
+        <table id="foodtable" class="display">
+            <!-- thead = table head -->
+            <thead>
+                <!-- tr = table row -->
+                <tr>
+                    <!-- th = table header -->
+                    <th>Food Name</th>
+                    <th>Quantity</th>
+                    <th>Unit</th>
+                    <th>Category</th>
+                    <th>Storage Option</th>
+                    <th>Expiry Date</th>
+                    <th>edit</th>
+                </tr>
+            </thead>
+            <!-- tbody = table body -->
+            <tbody>
+                <tr>
+                    <!-- td = table data, one cell in a table -->
+                    <td>Banana</td>
+                    <td>100</td>
+                    <td>Grams</td>
+                    <td>Fruit</td>
+                    <td>Dry</td>
+                    <td>Jun 26th, 2020</td>
+                    <td>edit</td>
+                </tr>
+                <tr>
+                    <td>Apple</td>
+                    <td>200</td>
+                    <td>Grams</td>
+                    <td>Fruit</td>
+                    <td>Dry</td>
+                    <td>Jun 26th, 2020</td>
+                    <td>edit</td>
+                </tr>
+                <tr>
+                    <td>Coconut</td>
+                    <td>300</td>
+                    <td>kg</td>
+                    <td>Fruit</td>
+                    <td>Dry</td>
+                    <td>Jun 26th, 2020</td>
+                    <td>edit</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <button id="add_btn">ADD FOOD</button>
+        <!-- the Add popup, change div to form for server integration -->
+        <div id="popup_add" class="disappear">
+            <div id="add_content">
+                <div id="exact_content">
+                    <span id="close_btn">&times;</span>
+                    <!-- Food Name input -->
+                    <label for="fdName">Food name:</label><br>
+                    <input type=text id="fdName">
+                    <br>  <!-- br = force line break, adds space in between -->
+
+                    <!-- Food Quantity input-->
+                    <label for="fdQuantity">Quantity:</label><br>
+                    <input type=number id="fdQuantity">
+                    <br>
+                    <!-- Food Unit -->
+                    <label for="fdUnit">Unit:</label><br>
+                    <select name="fdUnit" id="fdUnit">
+                        <option value="kilo">Kilegram(kg)</option>
+                        <option value="gram">Gram(g)</option>
+                        <option value="pound">Pound(lb)</option>
+                        <option value="liter">Liter(L)</option>
+                        <option value="miLiter">Milliliter(ml)</option>
+                        <option value="number">Number of fruit?</option>  <!-- Not sure please go over -->
+                    </select>
+                    <br>
+
+                    <!-- Food category -->
+                    <label for="fdCategory">Food category:</label><br>
+                    <input type=text id="fdCategory"> <!-- Change can be done, set category into dropdown box instead of textbox -->
+                    <br>
+
+                    <label for="fdStorage">Food storage:</label><br>
+                    <input type=text id="fdStorage">
+                    <br>
+
+                    <label for="fdExpire">Food expiry date:</label><br>
+                    <input type="date" id="fdExpire">
+                    <br>
+
+                    <input type="submit" id="submit_btn">
+                </div>
+            </div> 
+        </div>
+    </body>
+</html>
